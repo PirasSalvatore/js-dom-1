@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    width: 80dvw;
+    margin: 4rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    background-color: rgba(224, 167, 82, 0.689);
+    border: none;
+    padding: 0.5rem;
+    border-radius: 0.2rem;
+}
+
+#switch {
+    padding: 0.2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 5 black;
+}
